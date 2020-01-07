@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Test06 {
 	/**
-	 * Á·Ï°£ºBMI
+	 * Á·Ï°£ºBMI 
 	 */
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
