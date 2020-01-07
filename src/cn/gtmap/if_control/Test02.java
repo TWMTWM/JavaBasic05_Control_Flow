@@ -19,7 +19,7 @@ public class Test02 {
 			System.out.println("yes5");
 			System.out.println("yes6");
 			
-		//如果只有一个表达式可以不用写括弧，看上去会简约一些	
+		//如果只有一个表达式可以不用写括弧，看上去会简约一些	 
 		if(b){
 			System.out.println("yes7");
 		}
